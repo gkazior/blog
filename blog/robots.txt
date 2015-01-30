@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://gkazior.github.com/blog//sitemap.xml 

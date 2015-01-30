@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gkazior.github.com/blog//atom.xml" rel="self"/>
   <link href="http://gkazior.github.com/blog//"/>
-  <updated>2013-02-14T11:34:47+01:00</updated>
+  <updated>2015-01-30T18:30:26+01:00</updated>
   <id>http://gkazior.github.com/blog//</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,34 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[If next pope is not white]]></title>
-    <link href="http://gkazior.github.com/blog//blog/2013/02/13/if-next-pope-is-not-white/"/>
-    <updated>2013-02-13T19:07:00+01:00</updated>
-    <id>http://gkazior.github.com/blog//blog/2013/02/13/if-next-pope-is-not-white</id>
-    <content type="html"><![CDATA[<p>What if</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[a test]]></title>
-    <link href="http://gkazior.github.com/blog//blog/2013/02/11/a-test/"/>
-    <updated>2013-02-11T22:34:00+01:00</updated>
-    <id>http://gkazior.github.com/blog//blog/2013/02/11/a-test</id>
-    <content type="html"><![CDATA[<p>This is a short post.
-If you want to read more &#8230;</p>
-
-<!-- more -->
-
-
-<p>Here you are!</p>
-
-<h1>A gist</h1>
-
-<div><script src='https://gist.github.com/996818.js'></script>
-<noscript><pre><code></code></pre></noscript></div>
-
-
-
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="http://gkazior.github.com/blog//blog/2015/01/30/welcome/"/>
+    <updated>2015-01-30T18:15:00+01:00</updated>
+    <id>http://gkazior.github.com/blog//blog/2015/01/30/welcome</id>
+    <content type="html"><![CDATA[<p>Welcome to my octopress blog!</p>
 ]]></content>
   </entry>
   
